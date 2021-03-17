@@ -1,6 +1,6 @@
 
 
-[![rinechran's github stats](https://github-readme-stats.vercel.app/api?username=rinechran&show_icons=true&hide_border=true)](https://github.com/rinechran)
+![rinechran's github stats](https://github-readme-stats.vercel.app/api?username=rinechran&show_icons=true&hide_border=true)](https://github.com/rinechran)
 
 
 ![rinechran's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=rinechran)
